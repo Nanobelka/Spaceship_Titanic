@@ -1,6 +1,8 @@
 **! UNDER CONSTRUCTION !**  
 I'm going to add a detailed description to the code in the notebooks so that everyone can improve my result ))
 
+![Spaceship Titanic logo](https://github.com/Nanobelka/Spaceship_Titanic/blob/main/images/competition_logo.png)
+
 # Notebooks for Spaceship Titanic competition
 ## Predict which passengers are transported to an alternate dimension
 
