@@ -21,4 +21,5 @@ personal records for about two-thirds (~8700) of the passengers, to be used as t
 
 **Result:**  
 **130**th place out of about 2.5K participants in the "Spaceship Titanic" machine learning competition.
-![Spaceship Titanic](https://github.com/Nanobelka/Kaggle/blob/main/Spaceship%20Titanic/images/130_th_place.png)
+
+![Spaceship Titanic](https://github.com/Nanobelka/Spaceship_Titanic/blob/main/images/130_th_place.png)
