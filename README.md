@@ -15,9 +15,9 @@ Notebooks on Kaggle (not available yet)
 personal records for about two-thirds (~8700) of the passengers, to be used as training data.
 
 **Steps to submit:**
-- [exploration analysis along with data preparation](https://nbviewer.jupyter.org/github/Nanobelka/Spaceship_Titanic/blob/main/spaceship_0_EDA.ipynb);
-- [model comparison with LazyPredict](https://nbviewer.jupyter.org/github/Nanobelka/Spaceship_Titanic/blob/main/spaceship_1_LazyPredict.ipynb);
-- [final model training and submit prepare](https://nbviewer.jupyter.org/github/Nanobelka/Spaceship_Titanic/blob/main/spaceship_2_Model.ipynb).
+- [exploration analysis along with data preparation](https://nbviewer.jupyter.org/github/Nanobelka/Spaceship_Titanic/blob/main/spaceship_1_EDA.ipynb);
+- [model comparison with LazyPredict](https://nbviewer.jupyter.org/github/Nanobelka/Spaceship_Titanic/blob/main/spaceship_2_LazyPredict.ipynb);
+- [final model training and submit prepare](https://nbviewer.jupyter.org/github/Nanobelka/Spaceship_Titanic/blob/main/spaceship_3_Model_and_Submit.ipynb).
 
 **Result:**  
 **130**th place out of about 2.5K participants in the "Spaceship Titanic" machine learning competition.
