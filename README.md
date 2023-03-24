@@ -1,4 +1,5 @@
-**! UNDER CONSTRUCTION !**
+**! UNDER CONSTRUCTION !**  
+I'm going to add a detailed description to the code in the notebooks so that everyone can improve my result ))
 
 # Notebooks for Spaceship Titanic competition
 ## Predict which passengers are transported to an alternate dimension
